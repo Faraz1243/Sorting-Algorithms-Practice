@@ -1,0 +1,5 @@
+ ,Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort, Bucket Sort
+1000,3,1,1,2,19,2,0,2,1
+10000,241,230,126,15,13,14,5,9,3
+100000,50641,49028,10979,82,88,129,30,127,42
+500000
