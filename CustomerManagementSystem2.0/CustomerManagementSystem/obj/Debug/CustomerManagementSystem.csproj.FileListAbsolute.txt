@@ -1,0 +1,8 @@
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe.config
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.pdb
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.exe
+C:\Users\Faraz\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.pdb
